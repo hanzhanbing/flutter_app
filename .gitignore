@@ -10,3 +10,5 @@ test.dart
 .dart_tool
 Podfile.lock
 .flutter-plugins-dependencies
+build
+*.DS_Store
